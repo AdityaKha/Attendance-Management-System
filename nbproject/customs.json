@@ -1,0 +1,13 @@
+{
+    "elements": {},
+    "attributes": {
+        "+email_id+\"'\"": {},
+        "placeholder": {
+            "context": "input"
+        },
+        "value": {},
+        "target": {
+            "context": "iframe"
+        }
+    }
+}
